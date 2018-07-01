@@ -1,0 +1,31 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family:"微软雅黑";
+}
+h1,h2,h3,h4,h5,h6,ul,li,a,dl,dt,dd{
+    list-style: none;
+    text-decoration: none;
+    font-weight:normal;
+}
+.lt{
+    float:left;
+}
+.rt{
+    float:right;
+}
+.over{
+    overflow:hidden;
+}
+.clear{
+    clear:both;
+}
+input,button{
+    border:none;
+    outline:none;
+}
+img{
+    border:none;
+}
+/*公共样式结束*/
